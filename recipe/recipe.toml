@@ -1,0 +1,4 @@
+# jp addtion rest
+[build]
+template = "cargo"
+
